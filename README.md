@@ -1,2 +1,2 @@
 # LiveChat
-Live Char with NodeJS, react, mysql
+Live Chat with NodeJS, react, mysql
